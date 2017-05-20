@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://D:/larverl/laravel/vendor/barryvdh/laravel-ide-helper" />
+          <root url="file://D:/larverl/laravel/vendor/barryvdh/reflection-docblock" />
+          <root url="file://D:/larverl/laravel/vendor/classpreloader/classpreloader" />
+          <root url="file://D:/larverl/laravel/vendor/composer" />
+          <root url="file://D:/larverl/laravel/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://D:/larverl/laravel/vendor/doctrine/inflector" />
+          <root url="file://D:/larverl/laravel/vendor/doctrine/instantiator" />
+          <root url="file://D:/larverl/laravel/vendor/fzaninotto/faker" />
+          <root url="file://D:/larverl/laravel/vendor/hamcrest/hamcrest-php" />
+          <root url="file://D:/larverl/laravel/vendor/jakub-onderka/php-console-color" />
+          <root url="file://D:/larverl/laravel/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://D:/larverl/laravel/vendor/jeremeamia/SuperClosure" />
+          <root url="file://D:/larverl/laravel/vendor/laravel/framework" />
+          <root url="file://D:/larverl/laravel/vendor/league/flysystem" />
+          <root url="file://D:/larverl/laravel/vendor/mockery/mockery" />
+          <root url="file://D:/larverl/laravel/vendor/monolog/monolog" />
+          <root url="file://D:/larverl/laravel/vendor/mtdowling/cron-expression" />
+          <root url="file://D:/larverl/laravel/vendor/nesbot/carbon" />
+          <root url="file://D:/larverl/laravel/vendor/nikic/php-parser" />
+          <root url="file://D:/larverl/laravel/vendor/paragonie/random_compat" />
+          <root url="file://D:/larverl/laravel/vendor/phpdocumentor/reflection-common" />
+          <root url="file://D:/larverl/laravel/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://D:/larverl/laravel/vendor/phpdocumentor/type-resolver" />
+          <root url="file://D:/larverl/laravel/vendor/phpspec/prophecy" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-code-coverage" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-file-iterator" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-text-template" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-timer" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-token-stream" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/phpunit" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://D:/larverl/laravel/vendor/psr/log" />
+          <root url="file://D:/larverl/laravel/vendor/psy/psysh" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/comparator" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/diff" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/environment" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/exporter" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/global-state" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/recursion-context" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/version" />
+          <root url="file://D:/larverl/laravel/vendor/swiftmailer/swiftmailer" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/class-loader" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/console" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/css-selector" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/debug" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/dom-crawler" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/event-dispatcher" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/finder" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/http-foundation" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/http-kernel" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/polyfill-mbstring" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/polyfill-php56" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/polyfill-util" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/process" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/routing" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/translation" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/var-dumper" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/yaml" />
+          <root url="file://D:/larverl/laravel/vendor/vlucas/phpdotenv" />
+          <root url="file://D:/larverl/laravel/vendor/webmozart/assert" />
+          <root url="file://D:/larverl/laravel/vendor/yuanchao/laravel-5-markdown-editor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://D:/larverl/laravel/vendor/barryvdh/laravel-ide-helper" />
+          <root url="file://D:/larverl/laravel/vendor/barryvdh/reflection-docblock" />
+          <root url="file://D:/larverl/laravel/vendor/classpreloader/classpreloader" />
+          <root url="file://D:/larverl/laravel/vendor/composer" />
+          <root url="file://D:/larverl/laravel/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://D:/larverl/laravel/vendor/doctrine/inflector" />
+          <root url="file://D:/larverl/laravel/vendor/doctrine/instantiator" />
+          <root url="file://D:/larverl/laravel/vendor/fzaninotto/faker" />
+          <root url="file://D:/larverl/laravel/vendor/hamcrest/hamcrest-php" />
+          <root url="file://D:/larverl/laravel/vendor/jakub-onderka/php-console-color" />
+          <root url="file://D:/larverl/laravel/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://D:/larverl/laravel/vendor/jeremeamia/SuperClosure" />
+          <root url="file://D:/larverl/laravel/vendor/laravel/framework" />
+          <root url="file://D:/larverl/laravel/vendor/league/flysystem" />
+          <root url="file://D:/larverl/laravel/vendor/mockery/mockery" />
+          <root url="file://D:/larverl/laravel/vendor/monolog/monolog" />
+          <root url="file://D:/larverl/laravel/vendor/mtdowling/cron-expression" />
+          <root url="file://D:/larverl/laravel/vendor/nesbot/carbon" />
+          <root url="file://D:/larverl/laravel/vendor/nikic/php-parser" />
+          <root url="file://D:/larverl/laravel/vendor/paragonie/random_compat" />
+          <root url="file://D:/larverl/laravel/vendor/phpdocumentor/reflection-common" />
+          <root url="file://D:/larverl/laravel/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://D:/larverl/laravel/vendor/phpdocumentor/type-resolver" />
+          <root url="file://D:/larverl/laravel/vendor/phpspec/prophecy" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-code-coverage" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-file-iterator" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-text-template" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-timer" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/php-token-stream" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/phpunit" />
+          <root url="file://D:/larverl/laravel/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://D:/larverl/laravel/vendor/psr/log" />
+          <root url="file://D:/larverl/laravel/vendor/psy/psysh" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/comparator" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/diff" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/environment" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/exporter" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/global-state" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/recursion-context" />
+          <root url="file://D:/larverl/laravel/vendor/sebastian/version" />
+          <root url="file://D:/larverl/laravel/vendor/swiftmailer/swiftmailer" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/class-loader" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/console" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/css-selector" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/debug" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/dom-crawler" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/event-dispatcher" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/finder" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/http-foundation" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/http-kernel" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/polyfill-mbstring" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/polyfill-php56" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/polyfill-util" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/process" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/routing" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/translation" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/var-dumper" />
+          <root url="file://D:/larverl/laravel/vendor/symfony/yaml" />
+          <root url="file://D:/larverl/laravel/vendor/vlucas/phpdotenv" />
+          <root url="file://D:/larverl/laravel/vendor/webmozart/assert" />
+          <root url="file://D:/larverl/laravel/vendor/yuanchao/laravel-5-markdown-editor" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
